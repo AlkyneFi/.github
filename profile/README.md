@@ -18,3 +18,10 @@
 - We consist of two major stakeholders, “Managers” and “Investors”. 🤑
 - Investor can compare among different Managers from their public profiles containing their transaction records which can be used to gauge how well someone’s investment strategies have been. 🤔
 - Investors can further choose to pay a small subscription fee to the chosen Manager to unlock the access to see and replicate their entire investment details using an automated smart contract. ☕️👌
+
+### For the ideological nerds like myself
+
+- To score one for the team decentralization, our dapp's algorithm prefers each creator for the value their "advice" generated, of course based on how profitable their stratergy turns out to be, rather than their “following”, or “reach”, take that capitalism 😈
+- Now as a Manager, your worth and knowledge is what makes you stands out, and as a the Investors, we now have access to information and advices, formerly scattered over the vast wide web just a few clicks away. 🥳
+- To successfully build models and systems that can harness the power of decentralization to take it away from centralization’s susceptibility to human-opportunistic behavior and how probabilistically its more likely to succumb to internal technical malfunctioning, be it a hack or mismanagement. 📉
+- Finally, One of our deepest motivations for AlkyneFi stems out of patching the “Myth of the Self-made Man”, we dont want the Self-made man to be a myth. We want to give the power those who truly deserve it. “You, the people have the power - the power to create machines. The power to create happiness! Let us fight for a world of reason, a world where science and progress will lead to all men’s happiness. Soldiers! in the name of democracy, let us all unite!” - (Charlie Chaplin) 🫂
